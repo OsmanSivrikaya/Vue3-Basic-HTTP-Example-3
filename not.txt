@@ -1,0 +1,3 @@
+json db'yi yükler npm install -g json-server
+json db'yi ayaklandırır. json-server --watch db.json
+axios kütüphanesini indirirnpm 
